@@ -1,0 +1,26 @@
+{
+    "name": "recroom",
+    "displayName": "Rec Room",
+    "description": "A VSCode Theme based on VR (Virtual Reality) Social Application Rec Room",
+    "version": "1.0.0",
+    "publisher": "LeonInfinity",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rec Room Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rec Room Theme-color-theme.json"
+            }
+        ]
+    }
+}
